@@ -1,5 +1,5 @@
 # korobkov-universal-layout
-Modefied Tonsky's layout for en-ru mac keyboard
+Modified Tonsky's layout for en-ru mac keyboard with huge Enter and small left Shift
 
 Karabiner settings https://tonsky.me/blog/cursor-keys/
 
